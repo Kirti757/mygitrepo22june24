@@ -1,1 +1,8 @@
+<<<<<<< Updated upstream
 cComplete manager work
+=======
+This is 1st line of code
+This is 2nd line of code
+This is 3rd line of code
+This is 4th line of code
+>>>>>>> Stashed changes
